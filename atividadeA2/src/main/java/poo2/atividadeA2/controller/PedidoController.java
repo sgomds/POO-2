@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 @RestController
-@RequestMapping("/api/atividadeA2/Pedidos")
+@RequestMapping("/api/atividadeA2/pedidos")
 public class PedidoController {
     
     @Autowired
